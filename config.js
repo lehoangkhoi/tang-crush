@@ -15,4 +15,4 @@ const CONFIG = {
     mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
     messDesc: 'Hai đứa chúng ta quay lại nha .',
     btnAccept: 'dạ em cho anh cơ hội cuối thôi á nha, thay đổi nha anh iu  <3',
-    messLink: 'http://fb.com' //https://www.facebook.com/le.h.khoi.3
+  
